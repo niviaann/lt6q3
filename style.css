@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-image: url('nene.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+  font-weight: bold;
+}
+
+textarea {
+  width: 200px;
+}
+
+button {
+  background-color: gray;
+  margin-left: 11%;
+}
